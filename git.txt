@@ -1,0 +1,6 @@
+nstall Git on your local machine, follow these general steps based on your operating system:
+
+Windows:
+Download the Git installer from the official Git website (https://git-scm.com/download/win).
+Run the downloaded installer.
+Follow the installation wizard, accepting the default settings unless you have specific preferences.
